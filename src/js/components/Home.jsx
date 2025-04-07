@@ -153,9 +153,7 @@ setTasks([]);
         ))}
       </ul>
 
-      <button className="btn btn-warning mt-3" onClick={clearTasks}>
-        Limpiar Todo
-      </button>
+      
     </div>
   );
 };
